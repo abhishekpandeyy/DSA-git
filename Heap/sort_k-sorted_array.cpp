@@ -9,7 +9,7 @@
 #include <fstream>
 #include <iomanip>
 #include <cstdio>
-
+#include<queue>
 using namespace std;
 
 // class 
