@@ -1,8 +1,13 @@
 
-
 #include <vector>
 #include <map>
 
+using namespace std;
+
+int main() {
+    cout << "hello";
+    return 0;
+}
 using namespace std;
 
 class Solution {
